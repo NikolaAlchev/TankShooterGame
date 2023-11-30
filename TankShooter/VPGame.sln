@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPGame", "VPGame\VPGame.csproj", "{BAAFFD34-267E-4737-9961-4BC2823FFE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAFFD34-267E-4737-9961-4BC2823FFE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAFFD34-267E-4737-9961-4BC2823FFE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAFFD34-267E-4737-9961-4BC2823FFE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAFFD34-267E-4737-9961-4BC2823FFE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC1C9CF-2E3B-4CCD-9C2E-B99636A017C3}
+	EndGlobalSection
+EndGlobal

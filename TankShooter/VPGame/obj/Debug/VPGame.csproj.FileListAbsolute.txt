@@ -1,0 +1,12 @@
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\bin\Debug\VPGame.exe.config
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\bin\Debug\VPGame.exe
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\bin\Debug\VPGame.pdb
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.Properties.Resources.resources
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.exe
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.pdb
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.StartScreen.resources
+C:\Users\nikol\Desktop\Fakultet\Predmeti\InternetTehnologii\VPGame\VPGame\obj\Debug\VPGame.Form1.resources
