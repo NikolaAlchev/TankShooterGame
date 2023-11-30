@@ -30,6 +30,11 @@ In Tank Shooter, your mission is to navigate the battlefield, strategically shoo
 
 ## Screenshots
 
+### Menu Screen
 ![Menu Screen](TankShooter/images/Menu.jpg)
+
+### Gameplay
 ![Gameplay](TankShooter/images/Gameplay.jpg)
+
+### Boss Fight
 ![Boss Fight](TankShooter/images/BossFight.jpg)
